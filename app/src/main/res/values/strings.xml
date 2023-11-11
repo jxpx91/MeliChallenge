@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mercado Libre Challenge</string>
+    <string name="search_placeholder">Busca productos, marcas y más...</string>
+    <string name="attributes_title">Características</string>
+    <string name="see_on_meli">Ver artículo en MELI</string>
+    <string name="product">Producto</string>
+</resources>
